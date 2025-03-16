@@ -1,4 +1,3 @@
-#Установка модулей
 import pip
 try:
     import aiogram, gtts
